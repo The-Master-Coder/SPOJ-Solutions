@@ -2,7 +2,7 @@
 
 int main()
 {
-	int g, b, i, t;
+	int g, b;
 	scanf("%d %d", &g, &b);
 	while (g != - 1 && b != -1) {
 		if (g == 0 && b == 0) {
